@@ -12,3 +12,9 @@ essentiality:
   path: "essentiality/"
 growth:
   path: "growth/"
+    experiments:
+       biolog_carbon:
+          medium: no_carbon
+          file_name: "biolog_carbon_curtobacterium1.csv"
+          label: "no_carbon data"
+minimal_growth_rate = 0.05
